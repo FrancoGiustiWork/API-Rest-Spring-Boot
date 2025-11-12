@@ -83,6 +83,12 @@ mvn spring-boot:run
 ---
 
 ## Capturas Obligatorias
+<img width="1421" height="679" alt="image" src="https://github.com/user-attachments/assets/19480d8e-f0ad-4d5d-8319-85e1233da201" />
+<img width="1420" height="890" alt="image" src="https://github.com/user-attachments/assets/47031e74-1071-4266-9acf-5c17c0bcec5e" />
+<img width="1419" height="758" alt="image" src="https://github.com/user-attachments/assets/4b45e151-dd85-4a8f-9223-ee3a25d588b0" />
+<img width="1426" height="913" alt="image" src="https://github.com/user-attachments/assets/f083cbd6-15d5-4b14-8bba-592c309c9b73" />
+![Uploading image.png…]()
+
 
 ---
 
